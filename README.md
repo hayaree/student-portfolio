@@ -1,1 +1,3 @@
-"# Student Portfolio" 
+## Student Information
+Name : Hayaree Jaroensiri
+Department : IT
